@@ -3,6 +3,8 @@
 
 This application is a basic todo list generator that utilizes server side rendering to display components. The app utilizes a local prisma database which will need to be initialized prior to running the application.
 
+I built this to get more practice using Next.js.
+
 First, 
 
 ```npm i prisma --save-dev```
